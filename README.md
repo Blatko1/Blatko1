@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### 🤝 Notable contributions:
+- [`learn-wgpu`](https://github.com/sotrh/learn-wgpu) - provided documentation enchancments and improvements
+
 <!--
 **Blatko1/Blatko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
